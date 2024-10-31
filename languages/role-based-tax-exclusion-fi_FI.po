@@ -1,0 +1,65 @@
+# Copyright (C) 2023 Orwokki <info@orwokki.com>
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Role Based Tax Exclusion 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/role-based-tax-"
+"exclusion\n"
+"POT-Creation-Date: 2023-01-25T20:13:56+00:00\n"
+"PO-Revision-Date: 2023-01-25 22:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Domain: role-based-tax-exclusion\n"
+
+#. Plugin Name of the plugin
+#: role-based-tax-exclusion.php:69
+msgid "Role Based Tax Exclusion"
+msgstr "Role Based Tax Exclusion"
+
+#. Description of the plugin
+msgid ""
+"With this plugin administrator can define which user roles see prices in  "
+"store and cart pages of WooCommerce without taxes"
+msgstr ""
+"Tällä lisäosalla voidaan valita mitkä käyttäjäroolit näkevät hinnat "
+"kaupassa ja ostoskorissa ilman veroja"
+
+#. Author of the plugin
+msgid "Orwokki <info@orwokki.com>"
+msgstr "Orwokki <info@orwokki.com>"
+
+#. Author URI of the plugin
+msgid "https://orwokki.com"
+msgstr "https://orwokki.com"
+
+#: role-based-tax-exclusion.php:90
+msgid "Role Based Tax Exclusion Settings"
+msgstr "Role Based Tax Exclusion -lisaäsan asetukset"
+
+#: role-based-tax-exclusion.php:92
+msgid ""
+"The following options are used to configure role based tax exclusion. Taxes "
+"are not shown to the selected roles in shop or cart."
+msgstr ""
+"Seuraavilla asetuksilla asetetaan mille käyttäjärooleille ei näytetä "
+"verollisia hintoja kaupassa ja ostoskorissa."
+
+#: role-based-tax-exclusion.php:97
+msgid "Don't show taxes to these roles"
+msgstr "Roolit joille veroja ei näytetä"
+
+#: role-based-tax-exclusion.php:98
+msgid "Select roles which you don't want to see taxes in shop or cart"
+msgstr "Valitse käyttäjäroolit joiden et halua näkevän verollisia hintoja"
+
+#: role-based-tax-exclusion.php:102
+msgid "Using Shift and/or Ctrl buttons you can select multiple roles"
+msgstr ""
+"Shift ja/tai Ctrl näppäimiä käyttämällä voi valita useampia käyttäjärooleja "
+"listasta"
